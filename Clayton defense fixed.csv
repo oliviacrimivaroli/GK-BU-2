@@ -1,0 +1,37 @@
+Match,Competition,Date,Position,Minutes played,Total actions,Total actions successful,Goals,Assists,Shots,Shots on target,xG,Passes,Passes accurate,Long passes,Long passes accurate,Crosses,Crosses accurate,Dribbles,Dribbles successful,Duels,Duels won,Aerial duels,Aerial duels won,Interceptions,Losses,Losses own half,Recoveries,Recoveries opp half,Yellow card,Red card
+UIC Flames - Belmont Bruins 2:1,United States. NCAA D1 Missouri Valley,2023-11-05,RB,109,39,15,0,0,0,0,0,14,7,2,1,1,0,1,1,13,8,3,2,13,9,6,8,0,0,0
+Belmont Bruins - Evansville Purple Aces 2:2,United States. NCAA D1 Missouri Valley,2023-11-02,RB,107,89,61,0,0,1,0,0.31,48,43,4,3,3,3,6,1,29,14,3,1,7,8,6,14,5,0,0
+Western Michigan Broncos - Belmont Bruins 5:0,United States. NCAA D1 Missouri Valley,2023-10-27,RB,101,56,30,0,0,0,0,0,33,21,4,2,5,2,0,0,16,8,7,2,4,21,10,7,1,0,0
+Belmont Bruins - Bellarmine Knights 1:0,United States. NCAA D1 Non-conference matches,2023-10-18,RB,95,80,55,0,0,1,0,0.07,55,44,5,2,3,1,1,1,9,5,1,1,8,12,7,8,3,0,0
+Belmont Bruins - Bowling Green Falcons 2:1,United States. NCAA D1 Missouri Valley,2023-10-15,RB,99,42,25,0,0,0,0,0,20,15,3,1,0,0,0,0,13,9,3,1,5,9,5,9,1,0,0
+Lipscomb Bisons - Belmont Bruins 4:2,United States. NCAA D1 Non-conference matches,2023-10-11,RB,121,64,41,0,0,0,0,0,32,22,3,2,1,1,3,2,27,19,6,4,5,10,4,12,2,0,0
+Bradley Braves - Belmont Bruins 1:3,United States. NCAA D1 Missouri Valley,2023-10-07,RB,104,49,23,1,0,2,1,0.38,20,16,5,3,2,1,3,2,17,6,3,0,6,5,2,5,1,0,0
+Belmont Bruins - Drake Bulldogs 2:1,United States. NCAA D1 Missouri Valley,2023-10-01,RB,90,56,36,0,0,0,0,0,33,27,8,5,3,3,1,1,16,9,3,3,7,9,5,9,3,0,0
+Presbyterian BlueHose - Belmont Bruins 1:3,United States. NCAA D1 Non-conference matches,2023-09-26,RB,103,55,36,0,0,0,0,0,32,26,5,2,2,1,1,1,18,10,5,2,4,10,3,11,1,0,0
+Missouri State Bears - Belmont Bruins 1:0,United States. NCAA D1 Missouri Valley,2023-09-23,RB,97,41,26,0,0,0,0,0,23,15,7,3,2,1,1,1,14,11,2,2,0,6,4,10,1,55,0
+Belmont Bruins - UIC Flames 0:2,United States. NCAA D1 Missouri Valley,2023-09-17,RB,92,83,45,0,0,0,0,0,49,31,12,4,6,2,4,2,27,14,6,4,2,22,8,13,6,0,0
+Southern Indiana Screaming Eagles - Belmont Bruins 0:4,United States. NCAA D1 Non-conference matches,2023-09-13,RB,66,41,29,0,0,0,0,0,28,22,3,2,5,3,4,3,11,6,3,1,4,6,3,8,2,0,0
+Memphis Tigers - Belmont Bruins 2:1,United States. NCAA D1 Non-conference matches,2023-09-09,RB,99,66,44,0,0,0,0,0,41,35,4,3,2,2,2,2,19,8,7,1,2,9,4,5,0,0,0
+Belmont Bruins - FAU Owls 1:1,United States. NCAA D1 Non-conference matches,2023-08-28,RB,98,41,30,0,0,0,0,0,30,27,3,1,1,0,2,1,8,3,2,0,2,6,2,5,1,0,0
+Belmont Bruins - Georgia State Panthers 1:0,United States. NCAA D1 Non-conference matches,2023-08-25,RB,83,44,26,0,0,1,0,0.01,24,19,2,1,1,0,3,1,13,7,4,2,4,5,3,7,1,0,0
+Georgia Southern Eagles - West Virginia Mountaineers 1:3,United States. NCAA D1 Sun Belt,2022-10-29,RB,53,37,28,0,0,1,1,0.15,25,22,2,0,2,0,2,2,8,5,1,0,2,1,1,3,2,0,0
+JMU Dukes - West Virginia Mountaineers 1:1,United States. NCAA D1 Sun Belt,2022-10-20,0,11,11,10,0,0,0,0,0,8,7,0,0,0,0,0,0,3,3,1,1,1,1,0,4,0,0,0
+West Virginia Mountaineers - Kentucky Wildcats 3:3,United States. NCAA D1 Sun Belt,2022-10-16,0,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,2,1,1,0,0,0
+West Virginia Mountaineers - Lehigh Mountain Hawks 3:0,United States. NCAA D1 Non-conference matches,2022-10-12,LB,67,70,56,0,0,0,0,0,58,53,2,1,2,0,3,1,9,3,0,0,1,5,1,7,2,0,0
+Old Dominion Monarchs - West Virginia Mountaineers 0:4,United States. NCAA D1 Sun Belt,2022-10-09,RB,28,30,22,0,0,0,0,0,22,18,3,2,0,0,0,0,5,2,2,1,1,4,3,3,0,0,0
+West Virginia Mountaineers - South Carolina Gamecocks 0:0,United States. NCAA D1 Sun Belt,2022-10-01,RWB,24,17,9,0,0,0,0,0,9,7,0,0,3,3,3,1,6,2,1,0,2,5,2,4,0,0,0
+Pittsburgh Panthers - West Virginia Mountaineers 3:0,United States. NCAA D1 Non-conference matches,2022-08-30,RB5,33,19,12,0,0,0,0,0,13,11,1,0,1,0,0,0,4,1,1,0,2,4,2,3,1,0,0
+West Virginia Mountaineers - Robert Morris Colonials 1:0,United States. NCAA D1 Non-conference matches,2022-08-26,RB5,45,40,33,0,0,0,0,0,30,27,1,1,6,4,3,2,7,5,2,2,2,4,0,4,2,0,0
+Wellington Olympic - Western Suburbs 2:1,New Zealand. South Central Series,2021-11-27,RB,97,63,39,0,1,1,0,0,35,25,3,0,4,2,5,4,17,9,5,1,4,6,5,7,3,0,0
+Western Suburbs - Selwyn United 3:1,New Zealand. South Central Series,2021-11-21,RB,95,88,66,1,0,2,2,0.26,63,52,4,2,9,5,4,3,16,10,3,2,2,15,0,6,2,0,0
+Cashmere Technical - Western Suburbs 0:1,New Zealand. South Central Series,2021-11-14,RB,96,59,35,0,0,0,0,0,34,27,1,1,6,1,6,3,20,8,1,0,4,9,4,1,1,0,0
+Western Suburbs - Miramar Rangers 1:2,New Zealand. South Central Series,2021-11-07,RB,83,63,36,0,1,1,0,0.06,30,25,3,1,1,0,4,1,23,7,5,1,4,11,7,11,0,0,0
+Canterbury United - Wellington Phoenix Res. 5:1,New Zealand. Premiership,2021-02-27,"RB, RCB3",94,64,45,0,0,0,0,0,41,36,3,2,1,0,2,2,16,7,1,0,3,7,5,6,0,75,0
+Wellington Phoenix Res. - Auckland City 1:1,New Zealand. Premiership,2021-02-20,RB,49,28,19,0,1,0,0,0,20,14,1,0,2,1,1,1,7,5,2,2,3,4,3,4,1,0,0
+Wellington Phoenix Res. - Hamilton Wanderers 1:2,New Zealand. Premiership,2021-02-05,RWB,59,32,19,1,0,1,1,0.05,13,9,0,0,1,0,3,2,12,8,1,1,4,6,3,3,1,0,0
+Eastern Suburbs AFC - Wellington Phoenix Res. 8:0,New Zealand. Premiership,2021-01-31,RB,76,43,20,0,0,0,0,0,15,12,0,0,0,0,0,0,21,7,5,1,6,9,4,7,0,0,0
+Team Wellington - Wellington Phoenix Res. 5:2,New Zealand. Premiership,2021-01-24,RB,71,33,22,0,0,0,0,0,16,14,0,0,0,0,0,0,11,8,3,2,6,7,5,11,1,41,0
+Wellington Phoenix Res. - Canterbury United 1:1,New Zealand. Premiership,2021-01-09,RB,73,41,29,0,0,0,0,0,32,27,2,2,3,0,0,0,7,3,0,0,4,7,3,6,1,0,0
+Auckland City - Wellington Phoenix Res. 4:1,New Zealand. Premiership,2020-12-19,RB,66,30,15,0,0,0,0,0,19,12,3,2,2,1,1,0,6,2,0,0,5,7,3,3,0,0,0
+Wellington Phoenix Res. - Hawke's Bay United 3:0,New Zealand. Premiership,2020-12-12,"RCMF, RW",34,28,16,0,0,0,0,0,18,14,2,0,0,0,0,0,4,2,1,1,2,3,3,5,0,0,0
+Wellington Phoenix Res. - Team Wellington 0:1,New Zealand. Premiership,2020-11-14,RB,81,44,27,0,0,0,0,0,22,20,0,0,0,0,1,0,16,5,2,1,1,6,2,5,1,0,0
